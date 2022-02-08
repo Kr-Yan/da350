@@ -1,2 +1,2 @@
-# da350
-labs from Machine learning class
+# Data Analytics 350
+labs for Machine learning.
